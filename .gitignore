@@ -1,0 +1,15 @@
+# secrets — never commit
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local documents (don't commit personal/source PDFs)
+*.pdf
+
+# macOS
+.DS_Store

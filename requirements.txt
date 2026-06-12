@@ -1,0 +1,5 @@
+sentence-transformers
+PyMuPDF
+langchain
+numpy
+google-generativeai
